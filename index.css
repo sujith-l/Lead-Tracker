@@ -1,0 +1,39 @@
+#input-El{
+    width:500px;
+    height:35px;
+    border-color: blue ;
+    display:block;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    border-radius: 0%;
+}
+#inp-btn{
+    width:100px;
+    height:40px;
+    background-color:blue;
+    color:white;
+    border-radius:2px;
+    border:none;
+    font-style:normal;
+    font:bolder;
+    box-sizing:border-box;
+    
+   
+}
+div{
+    margin-right:10px;
+    border: none;
+}
+li{
+    margin-top: 5px;
+    color:blue;
+    margin-left: 10px;
+}
+a{
+    color:blue;
+}
+ul{
+    margin-bottom:10 px;
+    border:none;
+
+}
