@@ -7,7 +7,7 @@
     margin-bottom: 15px;
     border-radius: 0%;
 }
-#inp-btn{
+#inp-btn,#tab-btn{
     width:100px;
     height:40px;
     background-color:blue;
@@ -35,5 +35,17 @@ a{
 ul{
     margin-bottom:10 px;
     border:none;
+
+}
+#del-btn{
+    width:100px;
+    height:40px;
+    background-color:white;
+    color:blue;
+   
+    border:2px solid blue;
+    font-style:normal;
+    font:bolder;
+    box-sizing:border-box;
 
 }
